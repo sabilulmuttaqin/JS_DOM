@@ -1,0 +1,38 @@
+html,body {
+    height: 100%;
+}
+
+.tombol {
+  background-color: rgb(145, 145, 240);
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.warnaJudul {
+  color: rgb(255, 255, 255);
+}
+.kotak {
+  height: 24px;
+  width: 23px;
+  margin: 30px auto 12px;
+  border-radius: 5px;
+}
+.merah {
+  background-color: red;
+}
+.biru {
+  background-color: blue;
+}
+.hijau {
+  background-color: green;
+}
+.kotakkotak {
+  display: flex;
+}
+.inputWarna {
+  display: flex;
+  justify-content: space-around;
+}
